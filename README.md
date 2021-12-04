@@ -5,11 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/chappa_sai" target="blank"><img src="https://img.shields.io/twitter/follow/chappa_sai?logo=twitter&style=for-the-badge" alt="chappa_sai" /></a> </p>
 
+- 🎓 Sophomore at **IIIT LUCKNOW**
+
 - 🌱 I’m currently learning **DSA**
+
+- 💬 Ask me about **Android**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 💬 Ask me about **Android**
+- 👨‍💻 Checkout my [Repositories](https://github.com/Rohit1173?tab=repositories)
 
 - 📫 How to reach me **sairohitchappa01@gmail.com**
 
