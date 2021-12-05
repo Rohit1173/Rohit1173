@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit1173&label=Profile%20views&color=0e75b6&style=flat" alt="rohit1173" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chappa_sai" target="blank"><img src="https://img.shields.io/twitter/follow/chappa_sai?logo=twitter&style=for-the-badge" alt="chappa_sai" /></a> </p>
-<img height=380 align="right" src="https://media.giphy.com/media/wR2BTdHNf2ah10ZsdF/giphy.gif" alt="GIF" />
+<img height=350 align="right" src="https://media.giphy.com/media/wR2BTdHNf2ah10ZsdF/giphy.gif" alt="GIF" />
 
 - 🎓 Sophomore at **IIIT LUCKNOW**
 
